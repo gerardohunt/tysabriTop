@@ -1,0 +1,49 @@
+img{
+	position: absolute;
+}
+
+
+.txt1 {
+	left: 99px;
+	top: 166px;
+	z-index: 10;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+
+.grafica {
+	left: 212px;
+	top: 237px;
+	z-index: 10;
+	-webkit-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+
+.grafica2 {
+	left: 338px;
+	top: 271px;
+	z-index: 10;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+
+.grafica3 {
+	left: 337px;
+	top: 240px;
+	z-index: 10;
+	-webkit-animation-delay: 3s;
+	-o-animation-delay: 3s;
+	animation-delay: 3s;
+}
+
+.ref{
+	left: 99px;
+	bottom: 80px;
+	z-index: 10;
+	-webkit-animation-delay: 4s;
+	-o-animation-delay: 4s;
+	animation-delay: 4s;
+}

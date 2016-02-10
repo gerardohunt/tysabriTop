@@ -1,0 +1,22 @@
+img{
+	position: absolute;
+	left: 835px;
+}
+
+
+.txt {
+	left: 161px;
+	top: 266px;
+	z-index: 10;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+.ref{
+	left: 74px;
+	bottom: 100px;
+	z-index: 10;
+	-webkit-animation-delay: 4s;
+	-o-animation-delay: 4s;
+	animation-delay: 4s;
+}

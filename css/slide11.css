@@ -1,0 +1,35 @@
+img{
+	position: absolute;
+}
+
+.txt1 {
+	display: block;
+	position: absolute;
+	left: 99px;
+	top: 260px;
+	z-index: 10;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+
+.txt2 {
+	display: block;
+	position: absolute;
+	left: 99px;
+	top: 465px;
+	z-index: 10;
+	-webkit-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+
+
+.ref{
+	left: 99px;
+	bottom: 111px;
+	z-index: 11;
+	-webkit-animation-delay: 3.5s;
+	-o-animation-delay: 3.5s;
+	animation-delay: 3.5s;
+}

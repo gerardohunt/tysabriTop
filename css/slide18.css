@@ -1,0 +1,31 @@
+img{
+	position: absolute;
+}
+
+
+.grafica {
+	left: 119px;
+	top: 266px;
+	z-index: 10;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+
+.grafica2 {
+	left: 266px;
+	top: 324px;
+	z-index: 10;
+	-webkit-animation-delay: 3s;
+	-o-animation-delay: 3s;
+	animation-delay: 3s;
+}
+
+.grafica3 {
+	left: 504px;
+	top: 149px;
+	z-index: 10;
+	-webkit-animation-delay: 3.5s;
+	-o-animation-delay: 3.5s;
+	animation-delay: 3.5s;
+}

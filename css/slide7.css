@@ -1,0 +1,102 @@
+img{
+	position: absolute;
+}
+
+.dato1 {
+	display: block;
+	position: absolute;
+	left: 104px;
+	top: 160px;
+	z-index: 10;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+
+.dato2 {
+	display: block;
+	position: absolute;
+	left: 104px;
+	top: 280px;
+	z-index: 10;
+	-webkit-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+
+.dato3 {
+	display: block;
+	position: absolute;
+	left: 104px;
+	top: 400px;
+	z-index: 10;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+
+.dato4 {
+	display: block;
+	position: absolute;
+	left: 104px;
+	top: 520px;
+	z-index: 10;
+	-webkit-animation-delay: 3s;
+	-o-animation-delay: 3s;
+	animation-delay: 3s;
+}
+
+.txt1 {
+	display: block;
+	position: absolute;
+	left: 231px;
+	top: 181px;
+	z-index: 10;
+	-webkit-animation-delay: 1.7s;
+	-o-animation-delay: 1.7s;
+	animation-delay: 1.7s;
+}
+
+.txt2 {
+	display: block;
+	position: absolute;
+	left: 231px;
+	top: 309px;
+	z-index: 10;
+	-webkit-animation-delay: 2.2s;
+	-o-animation-delay: 2.2s;
+	animation-delay: 2.2s;
+}
+
+.txt3 {
+	display: block;
+	position: absolute;
+	left: 231px;
+	top: 439px;
+	z-index: 10;
+	-webkit-animation-delay: 2.7s;
+	-o-animation-delay: 2.7s;
+	animation-delay: 2.7s;
+}
+
+.txt4 {
+	display: block;
+	position: absolute;
+	left: 231px;
+	top: 559px;
+	z-index: 10;
+	-webkit-animation-delay: 3.2s;
+	-o-animation-delay: 3.2s;
+	animation-delay: 3.2s;
+}
+
+.ref {
+	display: block;
+	position: absolute;
+	left: 111px;
+	bottom: 89px;
+	z-index: 10;
+	-webkit-animation-delay: 3.5s;
+	-o-animation-delay: 3.5s;
+	animation-delay: 3.5s;
+}

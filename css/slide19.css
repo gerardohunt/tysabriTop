@@ -1,0 +1,14 @@
+img{
+	position: absolute;
+	left: 835px;
+}
+
+
+.txt {
+	left: 99px;
+	top: 256px;
+	z-index: 10;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}

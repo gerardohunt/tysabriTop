@@ -1,0 +1,50 @@
+img{
+	position: absolute;
+	left: 835px;
+}
+
+
+.bullet1 {
+	left: 175px;
+	top: 246px;
+	z-index: 10;
+	-webkit-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+
+.bullet2 {
+	left: 175px;
+	top: 349px;
+	z-index: 10;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+
+.bullet3 {
+	left: 175px;
+	top: 484px;
+	z-index: 10;
+	-webkit-animation-delay: 3s;
+	-o-animation-delay: 3s;
+	animation-delay: 3s;
+}
+
+.txt {
+	left: 178px;
+	top: 176px;
+	z-index: 10;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+
+.ref{
+	left: 99px;
+	bottom: 100px;
+	z-index: 10;
+	-webkit-animation-delay: 3s;
+	-o-animation-delay: 3s;
+	animation-delay: 3s;
+}

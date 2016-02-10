@@ -1,0 +1,41 @@
+img{
+	position: absolute;
+	left: 835px;
+}
+
+
+.grafica {
+	left: 201px;
+	top: 186px;
+	z-index: 10;
+	-webkit-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+
+.grafica2 {
+	left: 324px;
+	top: 201px;
+	z-index: 10;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+
+.grafica3 {
+	left: 398px;
+	top: 227px;
+	z-index: 10;
+	-webkit-animation-delay: 3s;
+	-o-animation-delay: 3s;
+	animation-delay: 3s;
+}
+
+.ref{
+	left: 74px;
+	bottom: 100px;
+	z-index: 10;
+	-webkit-animation-delay: 3s;
+	-o-animation-delay: 3s;
+	animation-delay: 3s;
+}

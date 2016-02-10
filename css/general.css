@@ -1,0 +1,179 @@
+body {
+	margin: 0; 
+	padding: 0;
+}
+
+.titulo {
+	position: absolute;
+	left: 99px;
+	top: 36px;
+	-webkit-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	animation-delay: 1s;
+}
+
+
+.back {
+	position: absolute;
+	left: 850px;
+	top: 13px;
+	z-index: 10;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+.home {
+	position: absolute;
+	left: 909px;
+	top: 20px;
+	z-index: 10;
+	-webkit-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	animation-delay: 1s;
+}
+.next {
+	position: absolute;
+	left: 959px;
+	top: 12px;
+	z-index: 10;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+#contenedor {
+	position: relative;
+	height: 768px;
+	margin: 0 auto;
+	overflow: hidden;
+	width: 1024px;
+}
+.linea {
+	position: absolute;
+	left: 89px;
+	top: 124px;
+	-webkit-animation-delay: .5s;
+	-o-animation-delay: .5s;
+	animation-delay: .5s;
+}
+.menu1{
+	top: 720px;
+	left: 24px;
+	position: absolute;
+	z-index: 5;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+.menu2{
+	top: 727px;
+	left: 142px;
+	position: absolute;
+	z-index: 5;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+.menu3{
+	top: 720px;
+	left: 254px;
+	position: absolute;
+	z-index: 5;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+.menu4{
+	top: 717px;
+	left: 376px;
+	position: absolute;
+	z-index: 5;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+.menu5{
+	top: 720px;
+	left: 498px;
+	position: absolute;
+	z-index: 5;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+.menu6{
+	top: 726px;
+	left: 603px;
+	position: absolute;
+	z-index: 5;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+.menu7 {
+	top: 720px;
+	left: 721px;
+	position: absolute;
+	z-index: 5;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+.menu8 {
+	top: 726px;
+	left: 860px;
+	position: absolute;
+	z-index: 5;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+.menu9 {
+	bottom: 20px;
+	left: 917px;
+	position: absolute;
+	z-index: 5;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+
+.bgMenu{
+	display: block;
+	position: absolute;
+	bottom: 23px;
+	z-index: 1;
+	left: 124px;
+	-webkit-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	animation-delay: 1s;
+}
+
+.logo {
+	position: absolute;
+	right: 0px;
+	bottom: 63px;
+}
+.referencia {
+	position: absolute;
+	left: 10px;
+	top: 200px;
+}
+
+.legal {
+	position: absolute;
+	right: 10px;
+	bottom: 2px;
+}
+
+.txtizq {
+	width: 13px;
+	height: 494px;
+	position: absolute;
+	left: 10px;
+	top: 200px;
+}
+.logoBttm {
+	position: absolute;
+	right: 0px;
+	bottom: 80px;
+}

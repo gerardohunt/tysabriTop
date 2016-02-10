@@ -1,0 +1,45 @@
+img{
+	position: absolute;
+}
+
+.cuadro{
+	top: 182px;
+	left: 160px;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+
+.txt1 {
+	display: block;
+	position: absolute;
+	left: 190px;
+	top: 239px;
+	z-index: 10;
+	-webkit-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+
+
+.txt2 {
+	display: block;
+	position: absolute;
+	left: 190px;
+	top: 409px;
+	z-index: 10;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+
+.ref {
+	display: block;
+	position: absolute;
+	left: 99px;
+	bottom: 113px;
+	z-index: 10;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}

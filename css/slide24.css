@@ -1,0 +1,23 @@
+img{
+	position: absolute;
+	left: 835px;
+}
+
+
+.cuadro {
+	left: 144px;
+	top: 337px;
+	z-index: 10;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+
+.img {
+	left: 197px;
+	top: 186px;
+	z-index: 10;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
